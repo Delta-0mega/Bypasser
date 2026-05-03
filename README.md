@@ -3,4 +3,4 @@
 <br>
 ```python bypass.py```
 
-![preview](https://i.imgur.com/YWpIwBJ.png)
+![preview](https://files.catbox.moe/3wusix)
